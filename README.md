@@ -19,9 +19,13 @@ A **complete OTP solution** for Flutter apps — auto-listen, extract, and displ
 Unlike other packages that solve only one part of OTP autofill, `flutter_otp_auto_field` offers:
 
 ✅ **OTP Reading via Native APIs** (Android & iOS)
+
 ✅ **App Signature Hash Generator** for Android (for SMS Retriever API)
+
 ✅ **Built-in OTP Input Field** with full customization
+
 ✅ **Paste-friendly & Stream-based OTP Listening**
+
 ✅ **No SMS Permission Required** (Safe for Play Store)
 
 ---
