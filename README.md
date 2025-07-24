@@ -59,9 +59,6 @@ Then run:
 flutter pub get
 ```
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/deepak-devflutter/flutter_otp_auto_field/main/example/app_screenshot.png" width="300"/>
-</p>
 
 ### Android Configuration
 
@@ -154,6 +151,10 @@ FlutterOtpAutoField(
   onCompleted: (value) => print("OTP: $value"),
 )
 ```
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/deepak-devflutter/flutter_otp_auto_field/main/example/app_screenshot.png" width="300"/>
+</p>
 
 ---
 
