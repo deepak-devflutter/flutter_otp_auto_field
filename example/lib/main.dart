@@ -54,7 +54,7 @@ class _MyAppState extends State<MyApp> {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Flutter OTP Field Example',
+      title: 'Flutter OTP Auto Field Example',
       home: Scaffold(
         appBar: AppBar(
           title: const Text('Flutter OTP Field Plugin Example'),

@@ -201,10 +201,3 @@ This plugin was crafted to simplify OTP integration across Flutter projects — 
 
 ---
 
-Would you like me to:
-
-✅ Generate a `CHANGELOG.md`
-✅ Create a `CONTRIBUTING.md`
-✅ Add a GitHub Actions `workflow.yml` for CI
-
-Let me know — happy to help you polish it all for publishing on [pub.dev](https://pub.dev).

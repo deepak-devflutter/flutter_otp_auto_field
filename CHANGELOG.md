@@ -7,3 +7,5 @@
 - Updated README.md for better documentation
 ## [1.0.2] - 2025-07-23
 - Add app screenshot in README.md
+- ## [1.0.3] - 2025-07-23
+- Improved Docs README.md
