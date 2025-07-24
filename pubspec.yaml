@@ -4,10 +4,10 @@ description: >-
   retrieves the app signature hash, and offers a fully customizable OTP input field.
 version: 1.0.0
 
-homepage: https://github.com/deepak-devflutter/flutter_otp_field
-repository: https://github.com/deepak-devflutter/flutter_otp_field
-issue_tracker: https://github.com/deepak-devflutter/flutter_otp_field/issues
-documentation: https://github.com/deepak-devflutter/flutter_otp_field#readme
+homepage: https://github.com/deepak-devflutter/flutter_otp_auto_field.git
+repository: https://github.com/deepak-devflutter/flutter_otp_auto_field.git
+issue_tracker: https://github.com/deepak-devflutter/flutter_otp_auto_field.git/issues
+documentation: https://github.com/deepak-devflutter/flutter_otp_auto_field.git#readme
 
 environment:
   sdk: ^3.6.1
