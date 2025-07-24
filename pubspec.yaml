@@ -2,7 +2,7 @@ name: flutter_otp_auto_field
 description: >-
   A complete Flutter OTP plugin that handles Android/iOS OTP autofill,
   retrieves the app signature hash, and offers a fully customizable OTP input field.
-version: 1.0.0
+version: 1.0.1
 
 homepage: https://github.com/deepak-devflutter/flutter_otp_auto_field.git
 repository: https://github.com/deepak-devflutter/flutter_otp_auto_field.git
