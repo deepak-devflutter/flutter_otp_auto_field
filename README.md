@@ -59,6 +59,9 @@ Then run:
 flutter pub get
 ```
 
+![App Screenshot](https://raw.githubusercontent.com/deepak-devflutter/flutter_otp_auto_field/main/example/app_screenshot.png)
+
+
 ### Android Configuration
 
 Set minimum SDK to 19 in your app-level `android/app/build.gradle`:
